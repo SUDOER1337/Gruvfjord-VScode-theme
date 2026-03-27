@@ -18,18 +18,18 @@ No VS Code Marketplace. No Microsoft account. No Azure tokens.
 
 first 
 ```
-cd ~/Gruvfjord-vscode-theme
+cd ~/Gruvfjord-VScode-theme
 ```
 
 VS Code
 
 ```
-code --install-extension Gruvfjord-vscode-theme-*.vsix
+code --install-extension Gruvfjord-VScode-theme-*.vsix
 ```
 
 VSCodium
 ```
-codium --install-extension Gruvfjord-vscode-theme-*.vsix
+codium --install-extension Gruvfjord-VScode-theme-*.vsix
 ```
 
 ## Packaging the Theme (Maintainers)
@@ -40,7 +40,7 @@ If you are building the theme yourself:
 2. Change into the project directory:
 
 ```bash
-cd ~/Gruvfjord-vscode-theme
+cd ~/Gruvfjord-VScode-theme
 #then use vsce package to make it an .vsix
 vsce package
 ```
