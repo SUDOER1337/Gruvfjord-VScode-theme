@@ -1,6 +1,6 @@
-# Nullfjord VS Code / VSCodium Theme
+# Gruvfjord VS Code / VSCodium Theme
 
-A flat, Nordic-inspired color theme for Visual Studio Code and VSCodium.
+A flat, Gruvbox, Everforest Nordic-inspired color theme for Visual Studio Code and VSCodium.
 
 This theme is distributed as a **VSIX file only**.  
 No VS Code Marketplace. No Microsoft account. No Azure tokens.
@@ -18,18 +18,18 @@ No VS Code Marketplace. No Microsoft account. No Azure tokens.
 
 first 
 ```
-cd ~/Nullfjord-vscode-theme
+cd ~/Gruvfjord-vscode-theme
 ```
 
 VS Code
 
 ```
-code --install-extension Nullfjord-vscode-theme-*.vsix
+code --install-extension Gruvfjord-vscode-theme-*.vsix
 ```
 
 VSCodium
 ```
-codium --install-extension Nullfjord-vscode-theme-*.vsix
+codium --install-extension Gruvfjord-vscode-theme-*.vsix
 ```
 
 ## Packaging the Theme (Maintainers)
@@ -40,6 +40,5 @@ If you are building the theme yourself:
 2. Change into the project directory:
 
 ```bash
-cd ~/Nullfjord-vscode-theme
-
+cd ~/Gruvfjord-vscode-theme
 

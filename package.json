@@ -1,13 +1,13 @@
 {
-  "name": "nullfjord",
-  "displayName": "Nullfjord",
-  "description": "my take on a Nord inspired theme mostly have #303030 as BG",
+  "name": "gruvfjord",
+  "displayName": "Gruvfjord",
+  "description": "my take on a Nord inspired theme mostly have #292828 as BG",
   "version": "0.0.1",
-  "publisher":"Nullfjord",
+  "publisher":"Gruvfjord",
   "license": "CC0-1.0",
   "repository": {
   "type": "git",
-  "url": "https://github.com/SUDOER1337/Nullfjord-vscode-theme"
+  "url": "https://github.com/SUDOER1337/Gruvfjord-vscode-theme"
 }
 ,
   "engines": {
@@ -19,11 +19,10 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nullfjord",
+        "label": "Gruvfjord",
         "uiTheme": "vs-dark",
         "path": "./themes/nullfjord-color-theme.json"
       }
     ]
   }
 }
-
