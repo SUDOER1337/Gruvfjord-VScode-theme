@@ -42,3 +42,8 @@ If you are building the theme yourself:
 ```bash
 cd ~/Gruvfjord-vscode-theme
 
+then
+```
+vsce package
+```
+
